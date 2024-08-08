@@ -27,7 +27,7 @@ Technologies used:
   - Mocha
   - Chai
 
-- Contact info -
+Contact info -
   email:
   va.yang15@gmail.com
 
